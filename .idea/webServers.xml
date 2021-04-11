@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="147ddbb8-f169-40ef-b4e5-cc81fd8464f9" name="Tang">
+        <fileTransfer rootFolder="/data/tiancg_s1" accessType="SFTP" host="180.209.128.66" port="22" sshConfigId="89ff8463-0d0d-4a90-b2ae-ed8b58b6b233" sshConfig="tiancg_s1@180.209.128.66:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
